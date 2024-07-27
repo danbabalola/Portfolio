@@ -10,7 +10,7 @@ ML methodology.
 # **Table of Contents**
 I. Introduction <br>
 II. Methodology <br>
-&nbsp A. Finding A Data Source <br>
+&nbsp; A. Finding A Data Source <br>
   B. BoxScore: Sourcing Game Box Scores <br>
   C. Sourcing Team Win-Loss Results <br>
   D. Explanation of tools and libraries utilized in the Jupyter Notebook <br>
