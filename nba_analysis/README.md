@@ -1,6 +1,9 @@
 The collection of documents above is a predictor of what indicators boost the likelihood of success (games won) in the NBA using 
-ML methodology.
+ML methodology.<br>
 
+BoxScore Model Training.ipynb: Primary ML training file based on box score factors.
+data_wrangling.ipynb: Data cleaning/wrangling file
+game_wins_modeling.ipynb: Seperate ML methodology based on historical wins.
 
 
 
