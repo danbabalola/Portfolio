@@ -16,6 +16,7 @@ II. Methodology <br>
   D. Explanation of tools and libraries utilized in the Jupyter Notebook <br>
   E. Detailed walkthrough of the analysis workflow <br>
   F. Explanation of statistical methods, machine learning algorithms, or other techniques applied<br>
+<
 III. Results and Analysis	10<br>
   A. Presentation of findings from the Jupyter Notebook<br>
   B. Interpretation of results and their implications<br>
