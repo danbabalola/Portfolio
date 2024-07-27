@@ -16,14 +16,14 @@ II. Methodology <br>
   D. Explanation of tools and libraries utilized in the Jupyter Notebook <br>
   E. Detailed walkthrough of the analysis workflow <br>
   F. Explanation of statistical methods, machine learning algorithms, or other techniques applied<br>
-III. Results and Analysis	10
-  A. Presentation of findings from the Jupyter Notebook	10
-  B. Interpretation of results and their implications	12
-  C. Comparison with existing literature or benchmarks, if applicable	15
-  D. Comparing the various methods	15
-IV. Challenges Encountered	16
-  A. Identification of technical challenges faced during the project	16
-  B. Reflection on lessons learned and improvements for future projects	16
+III. Results and Analysis	10<br>
+  A. Presentation of findings from the Jupyter Notebook<br>
+  B. Interpretation of results and their implications<br>
+  C. Comparison with existing literature or benchmarks, if applicable	<br>
+  D. Comparing the various methods<br>
+IV. Challenges Encountered	
+  A. Identification of technical challenges faced during the project	
+  B. Reflection on lessons learned and improvements for future projects
 
 
 
