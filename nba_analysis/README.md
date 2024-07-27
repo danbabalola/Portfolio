@@ -8,14 +8,14 @@ ML methodology.
 
 
 # **Table of Contents**
-I. Introduction
-II. Methodology
-  A. Finding A Data Source
-  B. BoxScore: Sourcing Game Box Scores
-  C. Sourcing Team Win-Loss Results
-  D. Explanation of tools and libraries utilized in the Jupyter Notebook
-  E. Detailed walkthrough of the analysis workflow
-  F. Explanation of statistical methods, machine learning algorithms, or other techniques applied
+I. Introduction <br>
+II. Methodology <br>
+  A. Finding A Data Source <br>
+  B. BoxScore: Sourcing Game Box Scores <br>
+  C. Sourcing Team Win-Loss Results <br>
+  D. Explanation of tools and libraries utilized in the Jupyter Notebook <br>
+  E. Detailed walkthrough of the analysis workflow <br>
+  F. Explanation of statistical methods, machine learning algorithms, or other techniques applied<br>
 III. Results and Analysis	10
   A. Presentation of findings from the Jupyter Notebook	10
   B. Interpretation of results and their implications	12
