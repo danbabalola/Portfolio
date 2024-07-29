@@ -1,1 +1,1 @@
-
+The goal of this notebook is to determine if there is enough value in Indigo's sales for Colbalt to acquire it. While there are several factors that go into an acquisition, the focus, given data access, was entirely on sales.
